@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-generates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhkhoinguy/portfolio-generates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhkhoinguy/portfolio-generates/issues"
+  },
+  "homepage": "https://github.com/minhkhoinguy/portfolio-generates#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
